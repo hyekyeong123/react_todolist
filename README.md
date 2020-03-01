@@ -1,3 +1,7 @@
+vue로 만든 것보다 좀 더 난이도가 있던 react로 만든 todolist.
+특히 context가 가장 어려웠다.
+
+----
 1. 설정하기
    **[yarn create react-app react_todolist]**
    **[yarn start]**
